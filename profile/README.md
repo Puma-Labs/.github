@@ -41,7 +41,7 @@ Here are a few examples of the projects we’ve worked on:
 
 - **Nurses Haifa**
   - [Website](https://nurses.co.il/)
-  - The school trains nurses to deliver high-quality, compassionate care, emphasizing sensitivity to individuals, the community, and society. We foster students' creativity, academic skills, and encourage professional growth.
+  - This project trains nurses to provide compassionate, high-quality care, focusing on sensitivity to individuals and society. It fosters creativity, academic excellence, and motivates students for professional growth, shaping empathetic healthcare professionals.
 
 ### Contact Us
 
