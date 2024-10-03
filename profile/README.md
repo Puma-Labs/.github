@@ -27,13 +27,6 @@ Not only do we deliver high-quality product development, but we also ensure data
 
 At Puma Labs, we believe that innovation and security go hand in hand. Our mission is to help startups and entrepreneurs build safe, scalable, and innovative solutions that shape the future. We are committed to supporting every project with a strong focus on product development and data security, enabling businesses to grow confidently and securely.
 
-### Technologies We Use
-
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: Django, React, Node.js
-- **Cybersecurity Tools**: OWASP, Kali Linux, Nessus, Wireshark
-- **Cloud Services**: AWS, Azure, Google Cloud
-
 ### Projects
 
 - **VaadBot** 
