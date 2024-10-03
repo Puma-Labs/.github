@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://github.com/Puma-Labs/pumalabs.io/blob/main/img/logo_shield_only.png?raw=true" alt="Puma Labs Logo" width="130" height="140">
+</div>
 
 ## Puma Labs - Product R&D / Cybersecurity for Entrepreneurs & Startups
 
@@ -14,6 +16,18 @@ Not only do we deliver high-quality product development, but we also ensure data
 - **Cybersecurity**: We offer data security services at all levels, ensuring your project remains protected from the earliest development stages through to final deployment.
 - **Project Support**: Our team provides technical support after the product launch, ensuring its longevity and relevance.
 
+### Our Mission
+
+At Puma Labs, we believe that innovation and security go hand in hand. Our mission is to help startups and entrepreneurs build safe, scalable, and innovative solutions that shape the future. We are committed to supporting every project with a strong focus on product development and data security.
+
 ### Contact Us
 
 If you have an idea or need consultation on protecting your project, feel free to reach out. We are always eager to help ambitious startups and entrepreneurs succeed.
+
+- [Visit our website](https://pumalabs.io)
+- [Connect on LinkedIn](https://linkedin.com/company/pumalabs)
+- [Email us](mailto:info@pumalabs.io)
+
+<div align="center">
+  <img src="https://github.com/Puma-Labs/pumalabs.io/blob/main/img/PumaRoboLogo.png?raw=true" alt="Puma Labs Logo" width="150" height="150">
+</div>
