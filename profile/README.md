@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Puma-Labs/pumalabs.io/blob/main/img/logo_shield_only.png?raw=true" alt="Puma Labs Logo" width="130" height="140">
-</div>
-
 ## Puma Labs - Product R&D / Cybersecurity for Entrepreneurs & Startups
 
 ### About Us
