@@ -29,6 +29,8 @@ At Puma Labs, we believe that innovation and security go hand in hand. Our missi
 
 ### Projects
 
+Here are a few examples of the projects we’ve worked on:
+
 - **VaadBot** 
   - [Android Version](https://play.google.com/store/apps/details?id=com.vaadbot) | [iOS Version](https://apps.apple.com/il/app/vaadbot/id6475007894)
   - VaadBot is a mobile application designed to streamline property management in multi-apartment buildings. It simplifies the work of Homeowners' Associations (HOAs) by facilitating communication, financial tracking, and logistical management. Whether you're a building manager, tenant, accountant, or supplier, VaadBot makes processes more efficient.
@@ -36,6 +38,10 @@ At Puma Labs, we believe that innovation and security go hand in hand. Our missi
 - **Hupu Delivery** 
   - [Android Version](https://play.google.com/store/apps/details?id=com.hupudelivery) | [iOS Version](https://apps.apple.com/us/app/hupu-delivery/id1624993436)
   - HUPU Delivery is a 24/7 app for managing deliveries in Israel, offering services from food delivery to moving, with real-time tracking and planning options. Available in Hebrew and Russian.
+
+- **Nurses Haifa**
+  - [Website](https://nurses.co.il/)
+  - The school trains nurses to deliver high-quality, compassionate care, emphasizing sensitivity to individuals, the community, and society. We foster students' creativity, academic skills, and encourage professional growth.
 
 ### Contact Us
 
