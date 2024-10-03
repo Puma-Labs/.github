@@ -10,6 +10,13 @@ Puma Labs offers comprehensive support for entrepreneurs and startups at every s
 
 Not only do we deliver high-quality product development, but we also ensure data security, safeguarding your projects from cyber threats. Innovation is at the core of what we do, and we strive to execute every project with maximum efficiency and security.
 
+### Why Choose Us
+
+- **Comprehensive Support**: We guide you through every phase of product creation, from ideation to post-launch support.
+- **Proven Expertise**: Our team is experienced in both product development and cybersecurity, ensuring high standards in every project.
+- **Tailored Solutions**: We adapt to the unique needs of each client, delivering customized solutions that fit their vision and goals.
+- **Cutting-Edge Security**: Our cybersecurity measures ensure your data and intellectual property remain protected throughout development and beyond.
+
 ### Our Services:
 
 - **Product R&D**: We assist with all phases of product creation, from idea generation to implementation, including design and functionality development.
@@ -18,7 +25,24 @@ Not only do we deliver high-quality product development, but we also ensure data
 
 ### Our Mission
 
-At Puma Labs, we believe that innovation and security go hand in hand. Our mission is to help startups and entrepreneurs build safe, scalable, and innovative solutions that shape the future. We are committed to supporting every project with a strong focus on product development and data security.
+At Puma Labs, we believe that innovation and security go hand in hand. Our mission is to help startups and entrepreneurs build safe, scalable, and innovative solutions that shape the future. We are committed to supporting every project with a strong focus on product development and data security, enabling businesses to grow confidently and securely.
+
+### Technologies We Use
+
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Frameworks**: Django, React, Node.js
+- **Cybersecurity Tools**: OWASP, Kali Linux, Nessus, Wireshark
+- **Cloud Services**: AWS, Azure, Google Cloud
+
+### Projects
+
+- **VaadBot** 
+  - [Android Version](https://play.google.com/store/apps/details?id=com.vaadbot) | [iOS Version](https://apps.apple.com/il/app/vaadbot/id6475007894)
+  - VaadBot is a mobile application designed to streamline property management in multi-apartment buildings. It simplifies the work of Homeowners' Associations (HOAs) by facilitating communication, financial tracking, and logistical management. Whether you're a building manager, tenant, accountant, or supplier, VaadBot makes processes more efficient.
+
+- **Hupu Delivery** 
+  - [Android Version](https://play.google.com/store/apps/details?id=com.hupudelivery) | [iOS Version](https://apps.apple.com/us/app/hupu-delivery/id1624993436)
+  - HUPU Delivery is a 24/7 app for managing deliveries in Israel, offering services from food delivery to moving, with real-time tracking and planning options. Available in Hebrew and Russian.
 
 ### Contact Us
 
